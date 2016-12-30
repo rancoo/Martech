@@ -160,7 +160,7 @@
                    <div class="product-thumb">
                     <div class="image"><a href="#"><img src="image/product/a/product10.jpg" alt="HDMI - MINI HDMI " title="HDMI - MINI HDMI " class="img-responsive" /></a></div>
                     <div class="caption">
-                      <h4><a href="#">HDMI - MINI HDMI kabëll</a></h4>
+                      <h4><a href="#">HDMI - MINI HDMI kabell</a></h4>
                       <p class="price"> <span class="item_price">€3.54</span> <span class="price-old">€5.46</span> <span class="saving">-20%</span> </p>
                     </div>
                     <div class="button-group">
